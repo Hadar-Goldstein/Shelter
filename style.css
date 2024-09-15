@@ -3,3 +3,12 @@ body {
     color: white;
     text-align: center;
 }
+
+ul {
+    padding-left: 12px;
+}
+
+ul > li {
+    text-align: left;
+    color: black;
+}
