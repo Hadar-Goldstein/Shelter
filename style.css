@@ -10,5 +10,11 @@ ul {
 
 ul > li {
     text-align: left;
+    font-weight: bold;
     color: black;
+}
+
+.home-image {
+    width: 250px;
+    border: 1px solid black;
 }
